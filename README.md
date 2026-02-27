@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**LuisReyes970304/LuisReyes970304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 ¡Hello people! My name is Luis Reyes I'm 28 years old.</h1>
+<h3 align="center">🚀 I'm a software developer in training.</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+I'm a <b>Software developer in training.</b> I'm currently working on a project with Riwi called ATM and learning Python with Git Hub.  
+I'm passionate about <b>Reading mangas and watching animes</b>, also I like to spend time with my kids when I have time, <b>in fact, I'm learning frech rigth now.
+"God bless you"</i>
+
+![My skill](https://skillicons.dev/icons?i=js,html,python,css)
