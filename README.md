@@ -36,5 +36,5 @@ To land a junior developer position where I can contribute, grow as an engineer,
 
 ## 🚀 Technologies
 
-![JavaScript](https://skillicons.dev/icons?i=js,html,css) Frontend
-![Python](https://skillicons.dev/icons?i=python,fastapi) Backend with Python and FastAPI 
+- ![JavaScript](https://skillicons.dev/icons?i=js,html,css) Frontend
+- ![Python](https://skillicons.dev/icons?i=python,fastapi) Backend with Python and FastAPI 
