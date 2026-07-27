@@ -47,7 +47,6 @@ CURRENT_FOCUS = {
 ### Professional Objective
 To secure a **Junior Developer position** within a forward-thinking engineering team. I look forward to contributing immediately to backend pipelines, refining API integrations, and accelerating my professional growth alongside industry veterans.
 
----
 
 ## Beyond the Code
 <details>
@@ -58,7 +57,6 @@ To secure a **Junior Developer position** within a forward-thinking engineering 
 * **Interests:** Outside of writing code and designing backend architectures, I maintain a deep, active interest in Japanese literature, cultural history, and animation subcultures.
 </details>
 
----
 
 
 ##  Technologies
@@ -68,11 +66,10 @@ Frontend
 - ![JavaScript](https://skillicons.dev/icons?i=js,html,css,sass,vite)
 
 
+
 Backend
 <strong>Python with FastApi</strong>
 - ![Python](https://skillicons.dev/icons?i=python,fastapi)
-
-<br> 
   
 <strong>JavaScript and typeScript with node.js</strong>
 -  ![JavaScript](https://skillicons.dev/icons?i=typescript,nodejs,express)   
