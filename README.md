@@ -72,7 +72,7 @@ Backend
 <strong>Python with FastApi</strong>
 - ![Python](https://skillicons.dev/icons?i=python,fastapi)
 
-- 
+<br> 
   
 <strong>JavaScript and typeScript with node.js</strong>
 -  ![JavaScript](https://skillicons.dev/icons?i=typescript,nodejs,express)   
