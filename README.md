@@ -60,7 +60,7 @@ To secure a **Junior Developer position** within a forward-thinking engineering 
 
 
 
-## Technologies & Ecosystem
+### Technologies & Ecosystem
 
 | Layer | Technologies & Tools |
 | :--- | :--- |
