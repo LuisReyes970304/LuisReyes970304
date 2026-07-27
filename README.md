@@ -59,10 +59,10 @@ To secure a **Junior Developer position** within a forward-thinking engineering 
 
 
 
-##  Technologies
+# Technologies
 
 Frontend
-<strong>JavaScript</strong>
+### <strong>JavaScript</strong>
 - ![JavaScript](https://skillicons.dev/icons?i=js,html,css,sass,vite)
 
 
