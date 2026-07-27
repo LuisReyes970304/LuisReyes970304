@@ -3,7 +3,6 @@
 
 **Status:** Open To Work | **Specialization:** Backend & Fullstack Development
 
----
 
 ## 🧑‍💻 About Me
 I am an **adaptable and detail-oriented Software Developer** transitioning into the tech sector. Through rigorous, project-based training at **Riwi Academy**, I develop robust, scalable, and efficient applications. Driven by a passion for continuous learning, I thrive on translating complex requirements into well-structured, production-ready code.
@@ -34,7 +33,6 @@ CURRENT_FOCUS = {
 * **Interests:** Outside of engineering, I maintain an active interest in Japanese literature and animation culture.
 </details> 
 
----
 
 ## 🚀 Technologies
 
