@@ -1,57 +1,31 @@
-# ⚡ Hi, I'm Luis Reyes Caro
+<h1>Hi, I'm Luis Reyes Caro</h1>
+<h3>Software Developer in Training 🚀</h3>
 
-### **Software Developer in Training** 🚀
+## 🧑‍💻 About Myself
 
-Passionate about turning logic into code, building functional applications, and writing clean, maintainable software. Currently accelerating my tech career at **Riwi Academy**, specializing in backend development and scalable architectures.
+I'm a 28-year-old developer currently transitioning into the tech industry.  
+I’m building my skills in **Python, JavaScript, HTML, and CSS**, and working on real-world projects to strengthen my problem-solving abilities with **Riwi Academy**.
+Currently, I'm developing an **ATM system project** and improving my backend knowledge with Python and Git.
+I’m passionate about continuous learning, clean code, and building practical applications.
+Outside of tech, I enjoy reading manga and watching anime.
 
----
 
-## 🧑‍💻 About Me
+## 🎯 Current Goal
 
-- 🔄 **Tech Transition:** A 28-year-old professional focused on launching a long-term career in software engineering.
-- 🎓 **Education:** Active student at Riwi Academy, sharpening my technical skills through hands-on, real-world projects.
-- 🛠️ **Current Project:** Building an automated teller machine (ATM) system, focusing on core backend logic and data persistence.
-- 🎯 **Philosophy:** Deeply committed to continuous learning, software engineering best practices, and teamwork.
-- 📚 **Hobbies:** Outside of tech, I enjoy diving into manga universes and watching anime.
+To land a junior developer position where I can contribute, grow as an engineer, and build scalable, well-structured applications.
 
----
-
-## 🚀 Technologies & Tools
-
-### **Frontend**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Frontend Tech" />
-  </a>
-</p>
-
-### **Backend & Version Control**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Backend Tech" />
-  </a>
-</p>
-
----
 
 ## 📚 Currently Learning
 
-- ⚙️ **Advanced Backend:** Clean architecture and robust REST API design with Python.
-- 🔌 **Integration:** Efficient, secure full-stack connection between Frontend and Backend.
-- 📈 **Best Practices:** SOLID principles, clean code formatting, and advanced Git workflows.
+- Backend development with Python  
+- REST API design  
+- Frontend–Backend integration  
+- Clean code principles  
+- Git and version control best practices  
 
 ---
 
-## 🎯 Career Goal
+## 🚀 Technologies
 
-To secure a **Junior Developer** position within a dynamic tech team where I can deliver immediate value, solve complex challenges, and continue growing as a software engineer.
-
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="LinkedIn" />
-  </a>
-</p>
+- ![JavaScript](https://skillicons.dev/icons?i=js,html,css) Frontend
+- ![Python](https://skillicons.dev/icons?i=python,fastapi) Backend with Python and FastAPI 
