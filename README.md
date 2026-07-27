@@ -13,7 +13,7 @@ Driven by a passion for architectural patterns and logical puzzle-solving, I thr
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## Tech Stack & Ecosystem
 
 ### **Languages & Core Web**
 * **Backend & Logic:** Python, JavaScript (ES6+)
