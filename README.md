@@ -59,13 +59,14 @@ To secure a **Junior Developer position** within a forward-thinking engineering 
 
 
 
-## 🛠️ Technologies & Ecosystem
+## Technologies & Ecosystem
 
 | Layer | Technologies & Tools |
 | :--- | :--- |
-| **Frontend**  | ![JavaScript](https://skillicons.dev/icons?i=js,html,css,sass,vite)|
-| **Backend (Python)** | ![Python/FastAPI](https://skillicons.dev/icons?i=python,fastapi) |
-| **Backend (JavaScript/TypeScript)**  |  ![JavaScript](https://skillicons.dev/icons?i=typescript,nodejs,express) |
+| **Frontend** | ![HTML](https://skillicons.dev) ![CSS](https://skillicons.dev) ![JS](https://skillicons.dev/icons?i=js) ![Sass](https://skillicons.dev) ![Vite](https://skillicons.dev) |
+| **Backend (Python)** | ![Python](https://skillicons.dev/icons?i=python) ![FastAPI](https://skillicons.dev) |
+| **Backend (JS / TS)** | ![NodeJS](https://skillicons.dev) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Express](https://skillicons.dev) |
+
 
 ---
 
