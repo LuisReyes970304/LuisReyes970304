@@ -68,3 +68,4 @@ To secure a **Junior Developer position** within a forward-thinking engineering 
 | **Backend (JS / TS)** | ![NodeJS](https://skillicons.dev) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Express](https://skillicons.dev) |
 
 ---
+
