@@ -64,7 +64,7 @@ To secure a **Junior Developer position** within a forward-thinking engineering 
 ##  Technologies
 
 Frontend
-- ![JavaScript](https://skillicons.dev/icons?i=js,html,css,vite)
+- ![JavaScript](https://skillicons.dev/icons?i=js,html,css,vite,node)
 
 Backend
 - ![Python](https://skillicons.dev/icons?i=python,fastapi) Python and FastAPI
