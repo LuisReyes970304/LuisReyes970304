@@ -3,11 +3,11 @@
 
 ## 🧑‍💻 About Myself
 
-- 🔄 **Tech Transition:** 28-year-old professional pivoting into software engineering with a strong focus on backend systems.
-- 🎓 **Active Training:** Refining full-stack skills at **Riwi Academy** through intensive, project-based learning.
-- 🛠️ **Current Build:** Developing an **ATM system project** to master core backend logic, data persistence, and Git workflows.
-- 🎯 **Core Values:** Passionate about writing clean code, continuous learning, and building high-utility applications.
-- ☕ **Interests:** Enthusiastic about manga and anime culture outside of coding.
+I am an adaptable and detail-oriented Software Developer transitioning into the technology sector with a solid foundation in modern development practices. Through rigorous, project-based training at **Riwi Academy**, I have developed a robust skill set in **Python, JavaScript, HTML, and CSS**, focusing on building scalable and efficient applications. 
+
+Currently, I am engineering an **ATM system architecture** to deepen my expertise in backend logic, clean code principles, and version control workflows using Git. Driven by a passion for continuous learning and problem-solving, I thrive on translating complex requirements into well-structured code. 
+
+*Outside of my engineering pursuits, I maintain an active interest in Japanese literature and animation culture.*
 
 
 ## 🎯 Current Goal
