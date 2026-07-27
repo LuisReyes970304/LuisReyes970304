@@ -68,6 +68,6 @@ Frontend
 
 Backend
 - ![Python](https://skillicons.dev/icons?i=python,fastapi) 
--  ![JavaScript](https://skillicons.dev/icons?i=nodejs,express)
+-  ![JavaScript](https://skillicons.dev/icons?i=nodejs,expressjs)
   
   
