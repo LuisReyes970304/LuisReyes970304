@@ -1,4 +1,4 @@
-# Hi, I'm Luis Reyes Caro 👋
+# Hi, I'm Luis Reyes Caro
 ### Software Developer in Training | Backend & Fullstack Enthusiast
 
 **Status:** Open To Work  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 I am an **adaptable and detail-oriented Software Developer** transitioning into the tech sector with a solid foundation in modern engineering workflows. Through rigorous, intensive project-based training at **Riwi Academy**, I focus on building robust, scalable, and highly efficient server-side applications. 
 
 Driven by a passion for architectural patterns and logical puzzle-solving, I thrive on translating complex business requirements into clean, maintainable, and production-ready code.
@@ -29,7 +29,7 @@ Driven by a passion for architectural patterns and logical puzzle-solving, I thr
 
 ---
 
-## 🚀 Current Focus & Engineering Insights
+## Current Focus & Engineering Insights
 
 ```python
 CURRENT_FOCUS = {
@@ -40,18 +40,18 @@ CURRENT_FOCUS = {
 }
 ```
 
-### 🔋 Featured Active Project
+### Featured Active Project
 * **ATM System Architecture:** Engineering a comprehensive backend simulation designed to handle complex data workflows, strict validation logic, and secure transaction state management.
 * **Technical Milestones:** Implementing bulletproof backend validations, data persistence routines, and maintaining a decoupled modular layout.
 
-### 🎯 Professional Objective
+### Professional Objective
 To secure a **Junior Developer position** within a forward-thinking engineering team. I look forward to contributing immediately to backend pipelines, refining API integrations, and accelerating my professional growth alongside industry veterans.
 
 ---
 
-## ⚡ Beyond the Code
+## Beyond the Code
 <details>
-<summary><b>🔍 Click to expand soft skills & personal interests</b></summary>
+<summary><b> Click to expand soft skills & personal interests</b></summary>
 <br>
 
 * **Core Competencies:** Rapid technological knowledge acquisition, critical structural thinking, and cross-functional team collaboration.
@@ -63,5 +63,9 @@ To secure a **Junior Developer position** within a forward-thinking engineering 
 
 ##  Technologies
 
-- ![JavaScript](https://skillicons.dev/icons?i=js,html,css) Frontend
-- ![Python](https://skillicons.dev/icons?i=python,fastapi) Backend with Python and FastAPI 
+Frontend
+- ![JavaScript](https://skillicons.dev/icons?i=js,html,css)
+
+Backend
+- ![Python](https://skillicons.dev/icons?i=python,fastapi) Python and FastAPI
+- ![JavaScript](https://skillicons.dev/icons?i=node.j)
