@@ -67,7 +67,7 @@ Frontend
 - ![JavaScript](https://skillicons.dev/icons?i=js,html,css,vite,nodejs)
 
 Backend
-- ![Python](https://skillicons.dev/icons?i=python,fastapi) Python and FastAPI
--  ![JavaScript](https://skillicons.dev/icons?i=nodejs)
+- ![Python](https://skillicons.dev/icons?i=python,fastapi) 
+-  ![JavaScript](https://skillicons.dev/icons?i=nodejs,express)
   
   
