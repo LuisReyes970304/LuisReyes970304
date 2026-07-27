@@ -1,73 +1,38 @@
-<h1>Hi, I'm Luis Reyes Caro</h1>
-<h3>Software Developer in Training 🚀</h3>
-
-## 🧑‍💻 About Myself
-
-# Executive Summary
+# Hi, I'm Luis Reyes Caro 👋
+### Software Developer in Training 🚀
 
 **Status:** Open To Work | **Specialization:** Backend & Fullstack Development
 
-I am an **adaptable and detail-oriented Software Developer** transitioning into the technology sector with a solid foundation in modern development practices. Through rigorous, project-based training at **Riwi Academy**, I develop robust, scalable, and efficient applications.
-
-Driven by a passion for continuous learning and problem-solving, I thrive on translating complex requirements into well-structured, production-ready code.
-
 ---
+
+## 🧑‍💻 About Me
+I am an **adaptable and detail-oriented Software Developer** transitioning into the tech sector. Through rigorous, project-based training at **Riwi Academy**, I develop robust, scalable, and efficient applications. Driven by a passion for continuous learning, I thrive on translating complex requirements into well-structured, production-ready code.
 
 ## 🛠️ Tech Stack & Ecosystem
+* **Languages:** Python, JavaScript, HTML5, CSS3
+* **Frameworks & Libraries:** FastAPI
+* **Tools & DevOps:** Git, GitHub, VS Code
 
-### **Core Technologies**
-*   **Languages:** Python, JavaScript
-*   **Web Frontend:** HTML5, CSS3
-
-### **Tools & DevOps**
-*   **Frameworks & Libraries:** FastAPI
-*   **Version Control:** Git, GitHub
-*   **Environment:** VS Code
-
----
-
-## 🚀 Active Engineering & Focus
-
+## 🚀 Current Focus & Projects
 ```python
 CURRENT_FOCUS = {
     "Domain": "Backend Logic & Clean Architecture",
-    "Methodologies": ["SOLID Principles", "Clean Code", "Git Workflows"]
+    "Methodologies": ["SOLID Principles", "Clean Code", "Git Workflows"],
+    "Learning": ["REST API Design", "Frontend–Backend Integration"]
 }
 ```
 
-*   **Active Project:** Engineering a robust **ATM system architecture** designed to master data workflows, security logic, and state management.
-*   **Objective:** Implementing strict backend validations and clean data persistence patterns.
+* **Active Project:** Engineering an **ATM system architecture** focused on data workflows, security logic, and state management.
+* **Current Goal:** To land a junior developer position where I can contribute, grow as an engineer, and build scalable applications.
 
----
-
-## ⚡ Interactive Bio & Interests
-
+## ⚡ Beyond the Code
 <details>
-<summary><b>🔍 Click to expand personal interests & soft skills</b></summary>
+<summary><b>🔍 Click to expand soft skills & interests</b></summary>
 <br>
 
-### 🎭 Beyond the Code
-*   **Cultural Interests:** Outside of my engineering pursuits, I maintain an active interest in Japanese literature and animation culture.
-*   **Core Competencies:** Rapid knowledge acquisition, structural problem-solving, and cross-functional collaboration.
-
-</details>
-
----
-
-
-
-## 🎯 Current Goal
-
-To land a junior developer position where I can contribute, grow as an engineer, and build scalable, well-structured applications.
-
-
-## 📚 Currently Learning
-
-- Backend development with Python  
-- REST API design  
-- Frontend–Backend integration  
-- Clean code principles  
-- Git and version control best practices  
+* **Core Competencies:** Rapid knowledge acquisition, structural problem-solving, and cross-functional collaboration.
+* **Interests:** Outside of engineering, I maintain an active interest in Japanese literature and animation culture.
+</details> 
 
 ---
 
