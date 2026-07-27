@@ -3,11 +3,11 @@
 
 ## 🧑‍💻 About Myself
 
-I'm a 28-year-old developer currently transitioning into the tech industry.  
-I’m building my skills in **Python, JavaScript, HTML, and CSS**, and working on real-world projects to strengthen my problem-solving abilities with **Riwi Academy**.
-Currently, I'm developing an **ATM system project** and improving my backend knowledge with Python and Git.
-I’m passionate about continuous learning, clean code, and building practical applications.
-Outside of tech, I enjoy reading manga and watching anime.
+- 🔄 **Tech Transition:** 28-year-old professional pivoting into software engineering with a strong focus on backend systems.
+- 🎓 **Active Training:** Refining full-stack skills at **Riwi Academy** through intensive, project-based learning.
+- 🛠️ **Current Build:** Developing an **ATM system project** to master core backend logic, data persistence, and Git workflows.
+- 🎯 **Core Values:** Passionate about writing clean code, continuous learning, and building high-utility applications.
+- ☕ **Interests:** Enthusiastic about manga and anime culture outside of coding.
 
 
 ## 🎯 Current Goal
