@@ -64,10 +64,16 @@ To secure a **Junior Developer position** within a forward-thinking engineering 
 ##  Technologies
 
 Frontend
-- ![JavaScript](https://skillicons.dev/icons?i=js,html,css,sass,vite) <strong>JavaScript</strong>
+---
+<strong>JavaScript</strong>
+- ![JavaScript](https://skillicons.dev/icons?i=js,html,css,sass,vite) 
 
 Backend
-- ![Python](https://skillicons.dev/icons?i=python,fastapi)   <strong>Python with FastApi</strong>
--  ![JavaScript](https://skillicons.dev/icons?i=typescript,nodejs,express)   <strong>JavaScript and typeScript with node.js</strong>
+---
+<strong>Python with FastApi</strong>
+- ![Python](https://skillicons.dev/icons?i=python,fastapi)
+  
+<strong>JavaScript and typeScript with node.js</strong>
+-  ![JavaScript](https://skillicons.dev/icons?i=typescript,nodejs,express)   
   
   
