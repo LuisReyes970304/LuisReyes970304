@@ -29,7 +29,7 @@ Driven by a passion for architectural patterns and logical puzzle-solving, I thr
 
 ---
 
-## Current Focus & Engineering Insights
+### Current Focus & Engineering Insights
 
 ```python
 CURRENT_FOCUS = {
