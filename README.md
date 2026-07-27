@@ -67,7 +67,7 @@ Frontend
 - ![JavaScript](https://skillicons.dev/icons?i=js,html,css,sass,vite) <strong>JavaScript</strong>
 
 Backend
-- ![Python](https://skillicons.dev/icons?i=python,fastapi)  ## <strong>Python with FastApi</strong>
--  ![JavaScript](https://skillicons.dev/icons?i=typescript,nodejs,express)  ## <strong>JavaScript and typeScript with node.js</strong>
+- ![Python](https://skillicons.dev/icons?i=python,fastapi)   <strong>Python with FastApi</strong>
+-  ![JavaScript](https://skillicons.dev/icons?i=typescript,nodejs,express)   <strong>JavaScript and typeScript with node.js</strong>
   
   
