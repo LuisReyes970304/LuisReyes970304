@@ -2,8 +2,11 @@
 ### Software Developer in Training | Backend & Fullstack Enthusiast
 
 **Status:** Open To Work  
+
 **Specialization:** Fullstack Development
+
 **Linkedin:** https://www.linkedin.com/in/luis-reyes-caro
+
 **Portafolio:** https://personalprofilelandingpagedeploy-nrsoxpghk-luis-rafael970304.vercel.app/ 
 
 
@@ -67,8 +70,7 @@ To secure a **Junior Developer position** within a forward-thinking engineering 
 | Layer | Technologies & Tools |
 | :--- | :--- |
 | **Frontend** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js) ![Sass](https://skillicons.dev/icons?i=sass) ![Vite](https://skillicons.dev/icons?i=vite) |
-| **Backend (Python)** | ![Python](https://skillicons.dev/icons?i=python) ![FastAPI](https://skillicons.dev/icons?i=fastapi) |
-| **Backend (JS / TS)** | ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Express](https://skillicons.dev/icons?i=express) |
+| **Backend** | ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Express](https://skillicons.dev/icons?i=express) ![Python](https://skillicons.dev/icons?i=python) ![FastAPI](https://skillicons.dev/icons?i=fastapi)|
 
 ---
 
