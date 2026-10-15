@@ -2,7 +2,10 @@
 ### Software Developer in Training | Backend & Fullstack Enthusiast
 
 **Status:** Open To Work  
-**Specialization:** Backend & Fullstack Development
+**Specialization:** Fullstack Development
+**Linkedin:** https://www.linkedin.com/in/luis-reyes-caro
+**Portafolio:** https://personalprofilelandingpagedeploy-nrsoxpghk-luis-rafael970304.vercel.app/ 
+
 
 ---
 
