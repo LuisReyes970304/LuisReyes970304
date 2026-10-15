@@ -7,7 +7,7 @@
 
 **Linkedin:** https://www.linkedin.com/in/luis-reyes-caro
 
-**Portafolio:** https://personalprofilelandingpagedeploy-nrsoxpghk-luis-rafael970304.vercel.app/ 
+**Portafolio:** https://personalprofilelandingpagedeploy.vercel.app/ 
 
 
 ---
