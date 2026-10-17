@@ -1,5 +1,4 @@
-
-![Hello there, I'm Luis Reyes](https://vendedor-de-banners.com)
+<h1>Hello Ther, This is Luis Reyes</h1>
 
 ## About Me
 I am an **adaptable and detail-oriented Fullstack Software Developer** transitioning into the tech sector with a solid foundation in modern engineering workflows. Through rigorous, intensive project-based training at **Riwi Academy**, I focus on building robust, scalable, and highly efficient server-side applications. 
