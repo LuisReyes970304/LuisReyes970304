@@ -5,11 +5,10 @@
 
 [![Studying](https://img.shields.io/badge/Studying-at_RIWI-blueviolet?style=for-the-badge&logo=codementor&logoColor=white)](https://riwi.io/)
 
-| Atributo | Detalle |
+|  | Detalle |
 | :--- | :--- |
-| **Especialidad** | Fullstack Development |
 | **LinkedIn** | [LinkedIn Page](https://www.linkedin.com/in/luis-reyes-caro) |
-| **Portafolio** | [Portafolio Live Site](https://personalprofilelandingpagedeploy.vercel.app/) |
+| **Personal Portfolio** | [Homepage](https://personalprofilelandingpagedeploy.vercel.app/) |
 
 ---
 
