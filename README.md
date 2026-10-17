@@ -1,4 +1,5 @@
-<h1 style="background-color: green;"> Hello there, I'm Luis Reyes  </h1> 
+> [!NOTE]
+> # Hello there, I'm Luis Reyes
 
 
 ## About Me
