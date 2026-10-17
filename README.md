@@ -1,9 +1,10 @@
 # Hi, I'm Luis Reyes Caro
 ### Software Developer in Training | Backend & Fullstack Enthusiast
 
+**Status**  Open to Work 
+
 | Atributo | Detalle |
 | :--- | :--- |
-| **Status** | 🟢 Open to Work |
 | **Especialidad** | Fullstack Development |
 | **LinkedIn** | [in/luis-reyes-caro](https://www.linkedin.com/in/luis-reyes-caro) |
 | **Portafolio** | [personalprofilelandingpagedeploy.vercel.app](https://personalprofilelandingpagedeploy.vercel.app/) |
