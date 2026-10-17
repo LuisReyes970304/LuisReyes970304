@@ -17,6 +17,15 @@ Driven by a passion for architectural patterns and logical puzzle-solving, I thr
 
 ---
 
+## Technologies & Ecosystem
+
+| Layer | Technologies & Tools |
+| :--- | :--- |
+| **Frontend** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js) ![Sass](https://skillicons.dev/icons?i=sass) ![Vite](https://skillicons.dev/icons?i=vite) |
+| **Backend** | ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Express](https://skillicons.dev/icons?i=express) ![Python](https://skillicons.dev/icons?i=python) ![FastAPI](https://skillicons.dev/icons?i=fastapi)|
+
+---
+
 ## Tech Stack & Ecosystem
 
 ### **Languages & Core Web**
@@ -60,15 +69,6 @@ To secure a **Junior Developer position** within a forward-thinking engineering 
 * **Core Competencies:** Rapid technological knowledge acquisition, critical structural thinking, and cross-functional team collaboration.
 * **Interests:** Outside of writing code and designing backend architectures, I maintain a deep, active interest in Japanese literature, cultural history, and animation subcultures.
 </details>
-
-
-
-## 🛠️ Technologies & Ecosystem
-
-| Layer | Technologies & Tools |
-| :--- | :--- |
-| **Frontend** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js) ![Sass](https://skillicons.dev/icons?i=sass) ![Vite](https://skillicons.dev/icons?i=vite) |
-| **Backend** | ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Express](https://skillicons.dev/icons?i=express) ![Python](https://skillicons.dev/icons?i=python) ![FastAPI](https://skillicons.dev/icons?i=fastapi)|
 
 ---
 
