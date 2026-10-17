@@ -1,17 +1,12 @@
 # Hi, I'm Luis Reyes Caro
 ### Software Developer in Training | Backend & Fullstack Enthusiast
 
-<div align="center">
-
-[![Status](https://img.shields.io/badge/Status-Open_To_Work-success?style=for-the-badge&logo=statuspage&logoColor=white)](https://www.linkedin.com/in/luis-reyes-caro)
-[![Role](https://img.shields.io/badge/Focus-Fullstack_Developer-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://personalprofilelandingpagedeploy.vercel.app/)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_Reyes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-reyes-caro)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personalprofilelandingpagedeploy.vercel.app/)
-
-</div>
+| Atributo | Detalle |
+| :--- | :--- |
+| **Status** | 🟢 Open to Work |
+| **Especialidad** | Fullstack Development |
+| **LinkedIn** | [in/luis-reyes-caro](https://www.linkedin.com/in/luis-reyes-caro) |
+| **Portafolio** | [personalprofilelandingpagedeploy.vercel.app](https://personalprofilelandingpagedeploy.vercel.app/) |
 
 ---
 
