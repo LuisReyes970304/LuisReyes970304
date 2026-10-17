@@ -1,8 +1,6 @@
 # Hello there, I'm Luis Reyes Caro
 ### Fullstack software developer
 
-**Status** Studying at RIWI academy
-
 | **Site** | **Link** |
 | :--- | :--- |
 | **LinkedIn** | [LinkedIn Page](https://www.linkedin.com/in/luis-reyes-caro) |
