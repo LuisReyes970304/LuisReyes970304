@@ -1,7 +1,9 @@
 # Hello there, I'm Luis Reyes Caro
 ### Fullstack software developer
 
-**Status**  Open to Work 
+**Status**  Studying at RIWI
+
+[![Status](https://img.shields.io/badge/Status-Studying_at_RIWI-blueviolet?style=for-the-badge&logo=codementor&logoColor=white)](https://riwi.io/)
 
 | Atributo | Detalle |
 | :--- | :--- |
