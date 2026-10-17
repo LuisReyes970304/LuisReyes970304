@@ -1,10 +1,9 @@
-# Hello there, I'm Luis Reyes Caro
-### Fullstack software developer
+# Hello there, I'm Luis Reyes 
 
 ---
 
 ## About Me
-I am an **adaptable and detail-oriented Software Developer** transitioning into the tech sector with a solid foundation in modern engineering workflows. Through rigorous, intensive project-based training at **Riwi Academy**, I focus on building robust, scalable, and highly efficient server-side applications. 
+I am an **adaptable and detail-oriented Fullstack Software Developer** transitioning into the tech sector with a solid foundation in modern engineering workflows. Through rigorous, intensive project-based training at **Riwi Academy**, I focus on building robust, scalable, and highly efficient server-side applications. 
 
 Driven by a passion for architectural patterns and logical puzzle-solving, I thrive on translating complex business requirements into clean, maintainable, and production-ready code.
 
