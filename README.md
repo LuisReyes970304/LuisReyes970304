@@ -1,10 +1,6 @@
 # Hello there, I'm Luis Reyes Caro
-### Fullstack software developer
 
-| **Site** | **Link** |
-| :--- | :--- |
-| **LinkedIn** | [LinkedIn Page](https://www.linkedin.com/in/luis-reyes-caro) |
-| **Personal Portfolio** | [Homepage](https://personalprofilelandingpagedeploy.vercel.app/) |
+### Fullstack software developer
 
 ---
 
@@ -52,6 +48,14 @@ CURRENT_FOCUS = {
 ### Professional Objective
 To secure a **Junior Developer position** within a forward-thinking engineering team. I look forward to contributing immediately to backend pipelines, refining API integrations, and accelerating my professional growth alongside industry veterans.
 
+---
+
+| **Site** | **Link** |
+| :--- | :--- |
+| **LinkedIn** | [LinkedIn Page](https://www.linkedin.com/in/luis-reyes-caro) |
+| **Personal Portfolio** | [Homepage](https://personalprofilelandingpagedeploy.vercel.app/) |
+
+---
 
 ## Beyond the Code
 <details>
