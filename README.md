@@ -8,8 +8,8 @@
 | Atributo | Detalle |
 | :--- | :--- |
 | **Especialidad** | Fullstack Development |
-| **LinkedIn** | [![Luis Reyes In](https://img.shields.io/Luis_Reyes_LinkedIn-0A66C2?style=for-the-logo=logoColor=green)](https://www.linkedin.com/in/luis-reyes-caro) |
-| **Portafolio** | [![Luis Reyes Portafolio](https://img.shields.io/Luis_Reyes_Portafolio-000000?style=for-the-logo=logoColor=green)](https://personalprofilelandingpagedeploy.vercel.app/) |
+| **LinkedIn** | [LinkedIn Page](https://www.linkedin.com/in/luis-reyes-caro) |
+| **Portafolio** | [Portafolio Live Site](https://personalprofilelandingpagedeploy.vercel.app/) |
 
 ---
 
