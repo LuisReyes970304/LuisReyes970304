@@ -9,6 +9,17 @@
 
 **Portafolio:** https://personalprofilelandingpagedeploy.vercel.app/ 
 
+```html
+<ul>
+    <li>
+        <a href="https://www.linkedin.com/in/luis-reyes-caro" target="_blank">Linkeding</a>
+    </li>
+    <li>
+        <a href="https://personalprofilelandingpagedeploy.vercel.app/" target="_blank">Personal Profile</a>
+    </li>
+</ul>
+```
+
 
 ---
 
