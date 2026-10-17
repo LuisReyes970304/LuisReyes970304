@@ -24,16 +24,11 @@ Driven by a passion for architectural patterns and logical puzzle-solving, I thr
 | **Frontend** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js) ![Sass](https://skillicons.dev/icons?i=sass) ![Vite](https://skillicons.dev/icons?i=vite) |
 | **Backend** | ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Express](https://skillicons.dev/icons?i=express) ![Python](https://skillicons.dev/icons?i=python) ![FastAPI](https://skillicons.dev/icons?i=fastapi)|
 
----
-
-## Tech Stack & Ecosystem
-
-### **Languages & Core Web**
-* **Backend & Logic:** Python, JavaScript (ES6+)
-* **Frontend Basics:** HTML5, CSS3
 
 ### **Runtimes & Frameworks**
-* **Node.js:** Scalable server-side JavaScript execution and asynchronous runtime management.
+* **Node.js:** Scalable server-side TypeScript execution and asynchronous runtime management.
+* **Express** Layered Monolithic Architecture easy to develop and deploy.
+* **Next.js** Modular Architecture, focurs on business capabilities.
 * **FastAPI:** High-performance, modern Python web framework for building robust RESTful APIs.
 
 ### **Tools & DevOps**
