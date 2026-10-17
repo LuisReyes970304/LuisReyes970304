@@ -1,25 +1,17 @@
 # Hi, I'm Luis Reyes Caro
 ### Software Developer in Training | Backend & Fullstack Enthusiast
 
-**Status:** Open To Work  
+<div align="center">
 
-**Specialization:** Fullstack Development
+[![Status](https://img.shields.io/badge/Status-Open_To_Work-success?style=for-the-badge&logo=statuspage&logoColor=white)](https://www.linkedin.com/in/luis-reyes-caro)
+[![Role](https://img.shields.io/badge/Focus-Fullstack_Developer-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://personalprofilelandingpagedeploy.vercel.app/)
 
-**Linkedin:** https://www.linkedin.com/in/luis-reyes-caro
+<br/>
 
-**Portafolio:** https://personalprofilelandingpagedeploy.vercel.app/ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_Reyes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-reyes-caro)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personalprofilelandingpagedeploy.vercel.app/)
 
-```html
-<ul>
-    <li>
-        <a href="https://www.linkedin.com/in/luis-reyes-caro" target="_blank">Linkeding</a>
-    </li>
-    <li>
-        <a href="https://personalprofilelandingpagedeploy.vercel.app/" target="_blank">Personal Profile</a>
-    </li>
-</ul>
-```
-
+</div>
 
 ---
 
