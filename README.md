@@ -24,7 +24,6 @@ Driven by a passion for architectural patterns and logical puzzle-solving, I thr
 | **Frontend** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js) ![Sass](https://skillicons.dev/icons?i=sass) ![Vite](https://skillicons.dev/icons?i=vite) |
 | **Backend** | ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Express](https://skillicons.dev/icons?i=express) ![Python](https://skillicons.dev/icons?i=python) ![FastAPI](https://skillicons.dev/icons?i=fastapi)|
 
-
 ### **Runtimes & Frameworks**
 * **Node.js:** Scalable server-side TypeScript execution and asynchronous runtime management.
 * **Express** Layered Monolithic Architecture easy to develop and deploy.
