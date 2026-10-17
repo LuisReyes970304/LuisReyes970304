@@ -1,5 +1,5 @@
-# Hi, I'm Luis Reyes Caro
-### Software Developer in Training | Backend & Fullstack Enthusiast
+# Hello there, I'm Luis Reyes Caro
+### Fullstack software developer
 
 **Status**  Open to Work 
 
