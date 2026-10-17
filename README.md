@@ -5,7 +5,7 @@
 
 [![Studying](https://img.shields.io/badge/Studying-at_RIWI-blueviolet?style=for-the-badge&logo=codementor&logoColor=white)](https://riwi.io/)
 
-|  | Detalle |
+| **Site** | **Link** |
 | :--- | :--- |
 | **LinkedIn** | [LinkedIn Page](https://www.linkedin.com/in/luis-reyes-caro) |
 | **Personal Portfolio** | [Homepage](https://personalprofilelandingpagedeploy.vercel.app/) |
