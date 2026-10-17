@@ -2,6 +2,7 @@
 ### Fullstack software developer
 
 **Status** 
+
 [![Studying](https://img.shields.io/badge/Studying-at_RIWI-blueviolet?style=for-the-badge&logo=codementor&logoColor=white)](https://riwi.io/)
 
 | Atributo | Detalle |
