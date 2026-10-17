@@ -15,6 +15,7 @@ I am an **adaptable and detail-oriented Software Developer** transitioning into 
 
 Driven by a passion for architectural patterns and logical puzzle-solving, I thrive on translating complex business requirements into clean, maintainable, and production-ready code.
 
+---
 
 ## Technologies & Ecosystem
 
